@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "ajv": "^6.0.0",
-    "readable-stream": "^3.0.0"
+    "readable-stream": "https://github.com/ygmpkk/readable-stream"
   },
   "devDependencies": {
     "form-data": "^2.3.2",
